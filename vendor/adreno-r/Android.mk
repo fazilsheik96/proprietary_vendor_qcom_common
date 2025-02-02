@@ -5,5 +5,3 @@
 LOCAL_PATH := $(call my-dir)
 
 ifneq ($(TARGET_COMMON_QTI_COMPONENTS),adreno-r)
-
-endif
